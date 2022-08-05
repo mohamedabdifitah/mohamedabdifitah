@@ -1,17 +1,21 @@
-## Hi there 👋
+# Hi there 👋
+
+### I'm Mohamed Abdifitah and i am full stack software developer
+i started Building real world projects and contribute open source project
+
+### contacts social networks
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdifitah&hide=html&layout=compact&theme=highcontrast)](https://github.com/mohamedabdifitah)
 
 
-**mohamedabdifitah/mohamedabdifitah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mohamedabdifitah&show_icons=true&theme=highcontrast" />
 
-Here are some ideas to get you started:
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdifitah&hide=html&layout=compact&theme=highcontrast" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdifitah)](https://git.io/streak-stats)
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ 
+
+ </details>
