@@ -5,6 +5,15 @@ i started Building real world projects and contribute open source project
 
 ### contacts social networks
 
+### skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,wasm,typescript,python,javascript,express,graphql,apollo,react,next,mongodb,redis,aws,django,cpp,flask,mui,docker,sass,bash,css,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,git,nuxt,c,jest,kubernetes,deno,nodejs,webpack" />
+</a>
+</p>
+
+### github actions
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdifitah&hide=html&layout=compact&theme=highcontrast)](https://github.com/mohamedabdifitah)
 
 
@@ -19,3 +28,4 @@ i started Building real world projects and contribute open source project
  
 
  </details>
+ 
