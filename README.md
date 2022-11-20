@@ -8,7 +8,7 @@ i started Building real world projects and contribute open source project
 ### skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,wasm,typescript,python,javascript,express,graphql,apollo,react,next,mongodb,redis,aws,django,cpp,flask,mui,docker,sass,bash,css,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,git,nestjs,c,jest,kubernetes,deno,nodejs,webpack,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=wasm,typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,django,flask,mui,docker,sass,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,git,nestjs,c,jest,kubernetes,deno,nodejs,webpack,mysql,postgresql,vite" />
 </a>
 </p>
 
