@@ -8,7 +8,7 @@ i started Building real world projects and contribute open source project
 ### skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wasm,typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,django,flask,mui,docker,sass,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,git,nestjs,c,jest,kubernetes,deno,nodejs,webpack,mysql,postgresql,vite" />
+    <img src="https://skillicons.dev/icons?i=wasm,typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,django,flask,mui,docker,sass,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,nestjs,jest,kubernetes,deno,nodejs,webpack,mysql,postgresql,vite,firebase,kotlin,net,rust,rocket,tauri,vercel,webpack,stackoverflow,java,markdown,cassandra,d3,flutter,androidstudio,cs,cloudflare,cmake,gcp,githubactions,github,git,prometheus,regex,spring,visualstudio,workers,alpinejs" />
 </a>
 </p>
 
@@ -17,9 +17,6 @@ i started Building real world projects and contribute open source project
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdifitah&hide=html&layout=compact&theme=highcontrast)](https://github.com/mohamedabdifitah)
 
 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mohamedabdifitah&show_icons=true&theme=highcontrast" />
-
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdifitah&hide=html&layout=compact&theme=highcontrast" />
 
  
 
