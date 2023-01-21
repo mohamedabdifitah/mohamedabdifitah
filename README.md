@@ -21,6 +21,8 @@ i started Building real world projects and contribute open source project
  
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdifitah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
