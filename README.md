@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Mohamed Abdifitah and i am full stack software developer
+### I'm Mohamed Abdifitah and i am software engineer
 i started Building real world projects and contribute open source project
 
 ### contacts social networks
