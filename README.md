@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ### I'm Mohamed Abdifitah and i am software engineer
-i started Building real world projects and contribute open source project
-
+am student in college of computer science also i am selft taught developer 
+i started Building real world projects with my protofolio and contribute open source project and making private projects
 ### contacts social networks
 
 ### skills
