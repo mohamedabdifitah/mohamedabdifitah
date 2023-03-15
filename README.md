@@ -23,8 +23,9 @@ i started Building real world projects with my protofolio and contribute open so
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdifitah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedabdifitah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedabdifitah&layout=compact&theme=radical&show_icons=true)
+
 
  </details>
  
