@@ -8,7 +8,7 @@ i started Building real world projects with my protofolio and contribute open so
 ### skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wasm,typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,django,flask,mui,docker,sass,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,nestjs,jest,kubernetes,deno,nodejs,webpack,mysql,postgresql,vite,firebase,kotlin,net,rust,rocket,tauri,vercel,webpack,stackoverflow,java,markdown,cassandra,d3,flutter,androidstudio,cs,cloudflare,cmake,gcp,githubactions,github,git,prometheus,regex,spring,visualstudio,workers,alpinejs,powershell,lonkden" />
+    <img src="https://skillicons.dev/icons?i=wasm,typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,django,flask,mui,docker,sass,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,nestjs,jest,kubernetes,deno,nodejs,mysql,postgresql,vite,firebase,kotlin,net,rust,rocket,tauri,vercel,webpack,stackoverflow,java,markdown,cassandra,d3,flutter,androidstudio,cs,cloudflare,cmake,gcp,githubactions,github,git,prometheus,regex,spring,visualstudio,workers,alpinejs,powershell,lonkden" />
 </a>
 </p>
 
