@@ -1,8 +1,8 @@
 # Hi there 👋
 
 ### I'm Mohamed Abdifitah and i am software engineer
-am student in college of computer science also i am selft taught developer 
-i started Building real world projects with my protofolio and contribute open source project and making private projects
+primarily at backend engineer , who also makes websites and application at andriod.
+i primary work at creating side projects or clone of existing product and also making open source softwares , libaries or even tools.
 ### contacts social networks
 
 ### skills
