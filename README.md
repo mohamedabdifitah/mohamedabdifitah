@@ -8,7 +8,7 @@ i primary work at creating side projects or clone of existing product and also m
 ### skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,django,flask,mui,docker,sass,redux,selenium,tailwind,vim,nginx,jenkins,electron,figma,nestjs,jest,kubernetes,deno,nodejs,mysql,postgresql,vite,firebase,kotlin,net,rust,vercel,webpack,stackoverflow,java,markdown,cassandra,flutter,androidstudio,cs,cloudflare,cmake,gcp,githubactions,github,git,prometheus,regex,spring,visualstudio,powershell" />
+    <img src="https://skillicons.dev/icons?i=typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,mui,docker,sass,redux,selenium,tailwind,vim,nginx,electron,figma,nestjs,jest,kubernetes,deno,nodejs,mysql,postgresql,vite,firebase,vercel,webpack,stackoverflow,java,markdown,cassandra,flutter,androidstudio,cloudflare,cmake,gcp,githubactions,github,git,prometheus,regex,spring,visualstudio,powershell" />
 </a>
 </p>
 
