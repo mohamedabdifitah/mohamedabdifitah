@@ -1,14 +1,13 @@
 # Hi there 👋
 
 ### I'm Mohamed Abdifitah and i am software engineer
-primarily at backend engineer , who also makes websites and application at andriod.
-i primary work at creating side projects or clone of existing product and also making open source softwares , libaries or even tools.
+I'm a versatile software engineer with a multifaceted skill set spanning backend development, data engineering, devops, and frontend technologies. Over years in the industry, I've immersed myself in a wide array of technologies and methodologies, enabling me to tackle diverse challenges across the software development lifecycle.
 ### contacts social networks
 
 ### skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,python,javascript,go,dart,cpp,c,bash,css,express,graphql,apollo,react,next,mongodb,redis,aws,mui,docker,sass,redux,selenium,tailwind,vim,nginx,electron,figma,nestjs,jest,kubernetes,deno,nodejs,mysql,postgresql,vite,firebase,vercel,webpack,stackoverflow,java,markdown,cassandra,flutter,androidstudio,cloudflare,cmake,gcp,githubactions,github,git,prometheus,regex,spring,visualstudio,powershell" />
+    <img src="https://skillicons.dev/icons?i=typescript,python,javascript,go,dart,cpp,react,next,mongodb,redis,aws,docker,kubernetes,mysql,postgresql,cassandra,flutter,git,powershell" />
 </a>
 </p>
 
@@ -28,9 +27,3 @@ i primary work at creating side projects or clone of existing product and also m
 
 
  </details>
- 
- ## Side Projects
-
- ### Somfood 
- is app where can create user , merchant and driver  and order menu or item in merchant and driver will deleiver or you can pickup
- it contains two backend project [Api](https://github.com/mohamedabdifitah/mohamedabdifitah/ecapi) and [processor](https://github.com/mohamedabdifitah/mohamedabdifitah/processor)
